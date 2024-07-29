@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'splash_screen.dart'; // Import the splash screen
-import 'quiz_screen.dart'; // Import the quiz screen
 
 void main() {
   runApp(const MyApp());
